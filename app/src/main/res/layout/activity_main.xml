@@ -27,7 +27,7 @@
                 <ImageView
                     android:layout_width="80dp"
                     android:layout_height="80dp"
-                    android:src="@drawable/ra"/>
+                    android:src="@drawable/ashwin"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -53,7 +53,7 @@
                 <ImageView
                     android:layout_width="80dp"
                     android:layout_height="80dp"
-                    android:src="@drawable/ant"/>
+                    android:src="@drawable/ashwin"/>
 
                 <TextView
                     android:layout_width="wrap_content"
